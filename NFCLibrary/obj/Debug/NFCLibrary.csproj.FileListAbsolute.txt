@@ -1,0 +1,6 @@
+C:\Users\Xging\source\repos\NFCTestApplication\NFCLibrary\bin\Debug\NFCLibrary.exe.config
+C:\Users\Xging\source\repos\NFCTestApplication\NFCLibrary\bin\Debug\NFCLibrary.exe
+C:\Users\Xging\source\repos\NFCTestApplication\NFCLibrary\bin\Debug\NFCLibrary.pdb
+C:\Users\Xging\source\repos\NFCTestApplication\NFCLibrary\obj\Debug\NFCLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Xging\source\repos\NFCTestApplication\NFCLibrary\obj\Debug\NFCLibrary.exe
+C:\Users\Xging\source\repos\NFCTestApplication\NFCLibrary\obj\Debug\NFCLibrary.pdb
