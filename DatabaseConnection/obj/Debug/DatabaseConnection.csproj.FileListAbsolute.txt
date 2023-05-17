@@ -1,2 +1,0 @@
-C:\Users\Xging\source\repos\NFCTestApplication\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.AssemblyReference.cache
-C:\Users\Xging\source\repos\NFCTestApplication\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.CoreCompileInputs.cache
