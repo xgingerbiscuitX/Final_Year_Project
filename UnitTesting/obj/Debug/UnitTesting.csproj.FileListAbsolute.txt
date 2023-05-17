@@ -1,7 +1,0 @@
-C:\Users\Xging\source\repos\NFCTestApplication\UnitTesting\bin\Debug\UnitTesting.exe.config
-C:\Users\Xging\source\repos\NFCTestApplication\UnitTesting\bin\Debug\UnitTesting.exe
-C:\Users\Xging\source\repos\NFCTestApplication\UnitTesting\bin\Debug\UnitTesting.pdb
-C:\Users\Xging\source\repos\NFCTestApplication\UnitTesting\obj\Debug\UnitTesting.csproj.AssemblyReference.cache
-C:\Users\Xging\source\repos\NFCTestApplication\UnitTesting\obj\Debug\UnitTesting.csproj.CoreCompileInputs.cache
-C:\Users\Xging\source\repos\NFCTestApplication\UnitTesting\obj\Debug\UnitTesting.exe
-C:\Users\Xging\source\repos\NFCTestApplication\UnitTesting\obj\Debug\UnitTesting.pdb
